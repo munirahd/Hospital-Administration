@@ -19,10 +19,7 @@ import java.util.ArrayList;
 public class Testing {
     
       public static void main(String[] args) throws IOException  {
-        // groub 0ne 
-        // منيره الدريبي 
-        // رغد رشوان 
-        // ضي القحطاني 
+
         
      
         Scanner read= new Scanner (System.in); 
@@ -411,6 +408,7 @@ System.out.println(onlyOne);
    
      //////////////////////////////////////////////////////////////////////////
       // 5 METHOD if user enter the patient selection Screen
+   
       //////////////////////////////////////////////////////////////////////////
    public static void patient_selection(ArrayList<Employee> list_of_Employee, ArrayList<Patient> list_of_patient,ArrayList<Services> list_of_Services ){
      Scanner read= new Scanner (System.in);
