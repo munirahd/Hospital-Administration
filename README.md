@@ -33,7 +33,7 @@ A basic java system for hospital admins to mange employees, patients, and servic
 6. The EXIT command will terminate the porgram.
 
 #### UML digram for the program
-<img width="1509" alt="Screen Shot 2022-12-08 at 5 22 40 PM" src="https://user-images.githubusercontent.com/80950031/206471316-3882eb1b-13e6-4d2f-95d8-6adc9b29e773.png">
+<img width="500" hight="500" alt="Screen Shot 2022-12-08 at 5 22 40 PM" src="https://user-images.githubusercontent.com/80950031/206471316-3882eb1b-13e6-4d2f-95d8-6adc9b29e773.png">
 
 
 ### Why?
