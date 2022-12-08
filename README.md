@@ -3,7 +3,7 @@
 ### What?
 A basic java system for hospital admins to mange employees, patients, and services.
 
-The list of functionlity as follows :-
+#### The list of functionlity as follows :-
 1. Read admin file that contains all the admins information
 2. Sgin in the admin if found
 3. A list of items will appear where the admin can choose from :-
@@ -31,6 +31,10 @@ The list of functionlity as follows :-
 4. If the user choose any **add** service he/she will enter the relative information about that object throgh the keyboard then it will be stored
 5. If the user choose any **Print** service all the objects information will be printed in the output panel for example if the the admin to "PRINT DECTOR" it will print all the doctors and so on.
 6. The EXIT command will terminate the porgram.
+
+#### UML digram for the program
+<img width="1509" alt="Screen Shot 2022-12-08 at 5 22 40 PM" src="https://user-images.githubusercontent.com/80950031/206471316-3882eb1b-13e6-4d2f-95d8-6adc9b29e773.png">
+
 
 ### Why?
 The most important question to answer. this project was meant for my object-oriented programming class.
