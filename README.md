@@ -28,15 +28,28 @@ the list of functionlity as follows :-
         3.print the dector services 
         4. EXIT
     4. EXIT
-4. If the user choose any add service he/she will enter the relative information about that object throgh the keyboard then it will be stored
-5. If the user choose any print service all the objects information will be printed in the output panel for example if the the admin to "PRINT DECTOR" it will print all the doctors and so on.
-6. the EXIT command will terminate the porgram
+4. If the user choose any **add** service he/she will enter the relative information about that object throgh the keyboard then it will be stored
+5. If the user choose any **Print** service all the objects information will be printed in the output panel for example if the the admin to "PRINT DECTOR" it will print all the doctors and so on.
+6. the EXIT command will terminate the porgram.
 
-### why?
+### Why?
+The most important question to answer. this project was meant for my object-oriented programming class.
+The main objective is to apply all OOP concepts which are: encapsulation, inheritance, polymorphism, interface, exception handling and Collections. In which we applied thoroughly.
 
 ### when? 
+30/3/2021 until 16/4/2021
 
 ### who?
+**Authors**
+* Munira Alduraibi (me)
+* Ragahd Roshoan 
 
 # what I learned?
-*
+* How to design classes attributes, functionality, and their relationships correctly using UML from a given information like a program description.
+* How and when and why to use different types of classes like abstract, interface, final, and static classes.
+* Objects collections, composition, inheritance and polymorphism.
+* Working with files and integrate them in the program.
+* Encapsulated objects.
+* Exceptions handling.
+
+
