@@ -36,17 +36,18 @@ the list of functionlity as follows :-
 The most important question to answer. this project was meant for my object-oriented programming class.
 The main objective is to apply all OOP concepts which are: encapsulation, inheritance, polymorphism, interface, exception handling and Collections. In which we applied thoroughly.
 
-### when? 
+### When? 
 30/3/2021 until 16/4/2021
 
-### who?
+### Who?
 **Authors**
 * Munira Alduraibi (me)
 * Ragahd Roshoan 
 
-# what I learned?
+# What I learned?
 * How to design classes attributes, functionality, and their relationships correctly using UML from a given information like a program description.
 * How and when and why to use different types of classes like abstract, interface, final, and static classes.
+* How to think about a solution to a problem as a **team** and divide the tasks accordingly.
 * Objects collections, composition, inheritance and polymorphism.
 * Working with files and integrate them in the program.
 * Encapsulated objects.
