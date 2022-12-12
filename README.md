@@ -46,7 +46,7 @@ The main objective is to apply all OOP concepts which are: encapsulation, inheri
 ### Who?
 **Authors**
 * Munira Alduraibi (me)
-* Ragahd Roshoan ragadrashwan@gmail.com
+* [Ragahd Roshoan](mailto:ragadrashwan@gmail.com)
 
 # What I learned?
 * How to design classes attributes, functionality, and their relationships correctly using UML from a given information like a program description.
