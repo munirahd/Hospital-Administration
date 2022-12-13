@@ -1,9 +1,9 @@
 # Hospital-Administration 🏥
 
-### What?
+## What?
 A basic java system for hospital admins to mange employees, patients, and services.
 
-#### The list of functionlity as follows :-
+### The list of functionlity as follows :-
 1. Read admin file that contains all the admins information
 2. Sgin in the admin if found
 3. A list of items will appear where the admin can choose from :-
@@ -32,18 +32,18 @@ A basic java system for hospital admins to mange employees, patients, and servic
 5. If the user choose any **Print** service all the objects information will be printed in the output panel for example if the the admin to "PRINT DECTOR" it will print all the doctors and so on.
 6. The EXIT command will terminate the porgram.
 
-#### UML digram for the program
+### UML digram for the program
 <img width="500" hight="500" alt="Screen Shot 2022-12-08 at 5 22 40 PM" src="https://user-images.githubusercontent.com/80950031/206471316-3882eb1b-13e6-4d2f-95d8-6adc9b29e773.png">
 
 
-### Why?
+## Why?
 The most important question to answer. this project was meant for my object-oriented programming class.
 The main objective is to apply all OOP concepts which are: encapsulation, inheritance, polymorphism, interface, exception handling and Collections. In which we applied thoroughly.
 
-### When? 
+## When? 
 30/3/2021 until 16/4/2021
 
-### Who?
+## Who?
 **Authors**
 * Munira Alduraibi (me)
 * [Ragahd Roshoan](mailto:ragadrashwan@gmail.com)
