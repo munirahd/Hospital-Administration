@@ -49,6 +49,7 @@ The main objective is to apply all OOP concepts which are: encapsulation, inheri
 * [Ragahd Roshoan](mailto:ragadrashwan@gmail.com)
 
 # What I learned?
+* Learned java language
 * How to design classes attributes, functionality, and their relationships correctly using UML from a given information like a program description.
 * How and when and why to use different types of classes like abstract, interface, final, and static classes.
 * How to think about a solution to a problem as a **team** and divide the tasks accordingly.
