@@ -54,7 +54,7 @@ The main objective is to apply all OOP concepts which are: encapsulation, inheri
 * How and when and why to use different types of classes like abstract, interface, final, and static classes.
 * How to think about a solution to a problem as a **team** and divide the tasks accordingly.
 * Objects collections, composition, inheritance and polymorphism.
-* Working with files and integrate them in the program.
+* I/O File Management : Working with files and integrate them in the program.
 * Encapsulated objects.
 * Exceptions handling.
 
