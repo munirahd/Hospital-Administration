@@ -1,4 +1,4 @@
-# Hospital Administration System 🏥
+# Hospital Administration 🏥
 
 ## Overview
 This project entails the development of a basic Java application for hospital administration. It's designed to manage various aspects such as employee records, patient details, and hospital services.
