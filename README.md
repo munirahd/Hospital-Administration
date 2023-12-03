@@ -1,61 +1,65 @@
-# Hospital-Administration 🏥
+# Hospital Administration System 🏥
 
-## What?
-A basic java system for hospital admins to mange employees, patients, and services.
+## Overview
+This project entails the development of a basic Java application for hospital administration. It's designed to manage various aspects such as employee records, patient details, and hospital services.
 
-### The list of functionlity as follows :-
-1. Read admin file that contains all the admins information
-2. Sgin in the admin if found
-3. A list of items will appear where the admin can choose from :-
-    1. Staff selection screen 
-        1. Add employee
-            1. Add DECTOR
-            2. Add NURSE
-            3. Add ADMIN
-        2. print emplyee info
-            1. PRINT DECTOR
-            2. PRINT NURSE
-            3. PRINT ADMIN
-        3. EXIT
-    2. Patient selection screen 
-        1. Add new patients
-        2. PRINT patients info 
-        3. PRINT the patient bill
-        4. EXIT
-    3. Service selection screen
-        1. Add new services
-        2. PRINT the services info
-        3. PRINT the dector services 
-        4. EXIT
-    4. EXIT
-4. If the user choose any **add** service he/she will enter the relative information about that object throgh the keyboard then it will be stored
-5. If the user choose any **Print** service all the objects information will be printed in the output panel for example if the the admin to "PRINT DECTOR" it will print all the doctors and so on.
-6. The EXIT command will terminate the porgram.
+### Functionalities:
+1. **Admin Information Management:**
+   - Reading an admin file containing all administrator information.
+   - Signing in an administrator if their details are found.
 
-### UML digram for the program
-<img width="500" hight="500" alt="UML digram for the program" src="https://user-images.githubusercontent.com/80950031/206471316-3882eb1b-13e6-4d2f-95d8-6adc9b29e773.png">
+2. **Navigation Options:**
+   - Upon successful login, the admin is presented with multiple management options:
+     1. **Staff Management:**
+        - Add Employees (Doctors, Nurses, Admins)
+        - Print Employee Information (Doctors, Nurses, Admins)
+        - Exit to Main Menu
+     2. **Patient Management:**
+        - Register New Patients
+        - Print Patient Information
+        - Generate and Print Patient Bills
+        - Exit to Main Menu
+     3. **Service Management:**
+        - Add New Services
+        - Print Service Information
+        - Print Doctor Services
+        - Exit to Main Menu
+     4. **Program Termination:**
+        - Exit the program.
 
+3. **Addition and Printing Functions:**
+   - **Addition:** Input and store information for new entities (employees, patients, services).
+   - **Printing:** Display information for existing entities (e.g., doctors, patients) in the output panel.
 
-## Why?
-The most important question to answer. this project was meant for my object-oriented programming class.
-The main objective is to apply all OOP concepts which are: encapsulation, inheritance, polymorphism, interface, exception handling and Collections. In which we applied thoroughly.
+4. **Exit Command:** Terminates the program.
 
-## When? 
-30/3/2021 until 16/4/2021
+### UML Diagram
+A UML diagram is provided to illustrate the program structure, showcasing class relationships and design.
 
-## Who?
-**Authors**
-* Munira Alduraibi (me)
-* [Ragahd Roshoan](mailto:ragadrashwan@gmail.com)
+![UML Diagram for the Hospital Administration System](https://user-images.githubusercontent.com/80950031/206471316-3882eb1b-13e6-4d2f-95d8-6adc9b29e773.png)
 
-# What I learned?
-* Learned java language
-* How to design classes attributes, functionality, and their relationships correctly using UML from a given information like a program description.
-* How and when and why to use different types of classes like abstract, interface, final, and static classes.
-* How to think about a solution to a problem as a **team** and divide the tasks accordingly.
-* Objects collections, composition, inheritance and polymorphism.
-* I/O File Management : Working with files and integrate them in the program.
-* Encapsulated objects.
-* Exceptions handling.
+## Purpose
+This project was developed as part of an object-oriented programming class. The key goals were:
+- Applying OOP principles: encapsulation, inheritance, polymorphism, interfaces, exception handling, and Collections.
+- Integrating these concepts in a practical, real-world application scenario.
+
+## Project Timeline
+**Duration:** March 30, 2021, to April 16, 2021
+
+## Contributors
+**Team Members:**
+* Munira Alduraibi (Project Lead)
+* [Ragahd Roshoan](mailto:ragadrashwan@gmail.com) - Co-contributor
+
+## Key Learnings
+The project facilitated significant growth in several areas:
+- Mastery of the Java programming language.
+- Skills in designing class structures, attributes, and relationships using UML.
+- Understanding the use and importance of various class types (abstract, interface, final, static).
+- Collaborative problem-solving and task division.
+- Practical application of object collections, composition, inheritance, and polymorphism.
+- Proficiency in I/O file management and integration within the program.
+- Developing encapsulated objects.
+- Effective exception handling.
 
 
