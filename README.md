@@ -44,7 +44,7 @@ This project was developed as part of an object-oriented programming class. The 
 - Integrating these concepts in a practical, real-world application scenario.
 
 ## Project Timeline
-**Duration:** March 30, 2021, to April 16, 2021
+**Duration:** Mar 2021 - Apr 2021
 
 ## Contributors
 **Team Members:**
